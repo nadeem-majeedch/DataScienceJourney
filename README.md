@@ -33,9 +33,9 @@ You can install the required libraries using pip:
 ```shell
 pip install -r requirements.txt
 
-Usage
+### Usage
 Clone this repository to your local machine:
-```shell
+
 ```git clone https://github.com/nadeem-majeedch/DataScienceJourney.git
 
 - Navigate to the project or resource you're interested in.
