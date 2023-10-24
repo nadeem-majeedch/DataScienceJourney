@@ -2,7 +2,7 @@
 This is a collection of data science Courses, notebooks, projects, and resources that document our journey in the world of data science and machine learning.
 ## Table of Contents
 1. [About](#about)
-2. [Projects](#projects)
+2. [Modules](#Modules)
 3. [Getting Started](#getting-started)
 4. [Prerequisites](#prerequisites)
 5. [Usage](#usage)
@@ -36,7 +36,8 @@ pip install -r requirements.txt
 ### Usage
 Clone this repository to your local machine:
 
-```git clone https://github.com/nadeem-majeedch/DataScienceJourney.git
+```shell
+git clone https://github.com/nadeem-majeedch/DataScienceJourney.git
 ```
 - Navigate to the project or resource you're interested in.
 - Open and run Jupyter notebooks to explore the data and models.
