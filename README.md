@@ -32,3 +32,18 @@ You can install the required libraries using pip:
 
 ```shell
 pip install -r requirements.txt
+
+Usage
+Clone this repository to your local machine:
+```shell
+```git clone https://github.com/nadeem-majeedch/DataScienceJourney.git
+
+- Navigate to the project or resource you're interested in.
+- Open and run Jupyter notebooks to explore the data and models.
+- Feel free to modify and experiment with the code to learn and improve your skills.
+
+## Contributing
+We welcome contributions from the data science community. If you have an interesting project, improvement, or resource to share, please follow our Contribution Guidelines.
+
+### License
+This repository is licensed under the MIT License.
